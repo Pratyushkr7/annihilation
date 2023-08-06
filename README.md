@@ -3,13 +3,13 @@
 ⚡ Annihilation v3.0 (Final Build / Stable) ⚡
 -     Gaming on RM6785 Devices Redefined
 
-─────█─▄▀█──█▀▄─█─────
-────▐▌──────────▐▌────
-────█▌▀▄──▄▄──▄▀▐█────
-───▐██──▀▀──▀▀──██▌───
-──▄████▄──▐▌──▄████▄──
-░A N N I H I L A T I O N░
-██████████████████████
+      ─────█─▄▀█──█▀▄─█─────
+      ────▐▌──────────▐▌────
+      ────█▌▀▄──▄▄──▄▀▐█────
+      ───▐██──▀▀──▀▀──██▌───
+      ──▄████▄──▐▌──▄████▄──
+      ░A N N I H I L A T I O N░
+      ██████████████████████
 
 Your All-in-one Gaming Module for RM6785 Devices is here. 
 -     works on both Rui1.0 and Rui2.0 (stock ROMs also)
