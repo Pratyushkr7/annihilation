@@ -1,6 +1,4 @@
 # Annihilation module for RM6785 devices.
-
-⚡ Annihilation v3.0 (Final Build / Stable) ⚡
 - Gaming on RM6785 Devices Redefined
 
       ─────█─▄▀█──█▀▄─█─────
